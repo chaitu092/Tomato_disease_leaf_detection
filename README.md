@@ -1,4 +1,4 @@
-# Tomato_disease_prediction
+# Tomato_leaf_disease_detection
 Tomato disease classification using Inception V3 model 
 
 The dataset is available on kaggle
